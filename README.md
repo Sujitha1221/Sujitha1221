@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
 
 - 🎓 Education : **Final-year Software Engineering undergraduate at SLIIT.**
-- 
+
 - 🔭 I’m currently working on **projects in Machine Learning, Web Development, and Mobile App Development.**
 
 - 🌱 I’m currently learning **Machine learning, cloud technologies, and new web development tools.**

@@ -16,7 +16,7 @@
 
 - 📫 You can contact me through [Email](sujithasrikanthan@gmail.com)
 
-- 📄 Know about my experiences in [CV - Sujitha Srikanthan](https://drive.google.com/file/d/1p-LxcCP8ISBBWGkxUKeFmbb2BtpFPQZo/view?usp=sharing)
+- 📄 Know about my experiences in [CV - Sujitha Srikanthan](https://drive.google.com/file/d/1T8H4PwSgFH40Q2nNuxI6Xfn1iLjjSlkk/view?usp=sharing)
 
 - ⚡ Fun fact **I enjoy watching movies, listening to music, and exploring the latest technologies.**
 

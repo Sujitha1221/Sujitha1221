@@ -6,9 +6,11 @@
 
 - 🎓 Education : **Final-year Software Engineering undergraduate at SLIIT.**
 
-- 🔭 I’m currently working on **projects in Machine Learning, Web Development, and Mobile App Development.**
+- 💼 Role: **Software Engineer at IFS R&D International (Pvt) Ltd.**
 
-- 🌱 I’m currently learning **Machine learning, cloud technologies, and new web development tools.**
+- 🔬 Actively involved in **projects spanning Machine Learning, Web Development, and Mobile App Development.**
+
+- 🌱 Currently exploring **Machine learning, cloud technologies, and new web development tools.**
 
 - 👯 I’m looking to collaborate on **exciting open-source projects and innovative ideas.**
 

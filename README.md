@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [portfolio-sujitha-srikanthan](https://portfolio-sujitha-srikanthan.vercel.app/)
 
-- 📫 You can contact me through [Email](sujithasrikanthan@gmail.com)
+- 📫 You can contact me through [Email](mailto:sujithasrikanthan@gmail.com)
 
 - 📄 Know about my experiences in [CV - Sujitha Srikanthan](https://drive.google.com/file/d/1T8H4PwSgFH40Q2nNuxI6Xfn1iLjjSlkk/view?usp=sharing)
 

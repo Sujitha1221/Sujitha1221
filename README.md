@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Turning Ideas into Reality with Code, Creativity, and Passion.</h3>
 
 <h3 align="left">💡 About Me:</h3>
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
 
 - 🎓 Education : **Final-year Software Engineering undergraduate at SLIIT.**
 
